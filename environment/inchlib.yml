@@ -1,0 +1,20 @@
+name: inchlib
+channels:
+- omnia
+dependencies:
+- fastcluster=1.1.13=np17py27_2
+- libgfortran=1.0=0
+- mkl=2017.0.1=0
+- numpy=1.7.1=py27_3
+- openssl=1.0.2k=1
+- pip=9.0.1=py27_1
+- python=2.7.13=0
+- readline=6.2=2
+- scikit-learn=0.14.1=np17py27_1
+- scipy=0.12.0=np17py27_0
+- setuptools=27.2.0=py27_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py27_0
+- zlib=1.2.8=3
+
