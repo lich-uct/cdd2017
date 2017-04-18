@@ -69,9 +69,10 @@ def sdf2mol(sdfpath):
         if mol:
             yield mol
 
-violations = [num_lipinski_violations(m, ruleset='extended') for m in sdf2mol(sys.argv[1])]
-print(float(sum(violations)) / len(violations))
+if __name__ == "__main__":
+    violations = [num_lipinski_violations(m, ruleset='extended') for m in sdf2mol(sys.argv[1])]
+    print(float(sum(violations)) / len(violations))
 
-n, bins, patches = plt.hist(violations, bins=8, range=(0,8))
-plt.show()
+    n, bins, patches = plt.hist(violations, bins=8, range=(0,8))
+    plt.show()
 
