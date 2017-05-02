@@ -3,7 +3,7 @@
             <script src="jquery-2.0.3.min.js"></script>
             <script src="kinetic-v5.1.0.min.js"></script>
             <script src="konva.min.js"></script>
-            <script src="inchlib-dev.js"></script>
+            <script src="inchlib-1.2.0.js"></script>
             <script>
     var activated = false;
     $(document).click(function(evt){
@@ -19,6 +19,7 @@
       });
     
     $(document).ready(function() {
+        $("#milan").click(function() {$.get("vorsilam/clusters.json",show_dendrogram,"json")});
         $("#lucka").click(function() {$.get("pfeiferl/clusters.json",show_dendrogram,"json")});
         $("#petra").click(function() {$.get("svatonop/clusters.json",show_dendrogram,"json")});
         $("#ksenia").click(function() {$.get("troshchk/clusters.json",show_dendrogram,"json")});
@@ -37,9 +38,8 @@
 
     function show_dendrogram(data){
         activated = true;
-        preproccess(data);
-        var current_mol; 
-
+        //preproccess(data);
+        var current_mol;
         window.dendrogram = new InCHlib(
             {
                 target: "dendrogram",
@@ -106,7 +106,7 @@
             dendrogram.events.row_onmouseover = function(ids, evt){
                 show_molecule(ids, evt);
             };
-Scaffold keys
+
             dendrogram.events.row_onclick = function(ids, evt){
                 molecules_element.hide();
                 show_molecule(ids[0], evt);
@@ -166,6 +166,7 @@ Scaffold keys
 
         <body>
             <div id="loading">
+                <button id="milan">Milan</button>
                 <button id="lucka">Lucka</button>
                 <button id="petra">Petra</button>
                 <button id="ksenia">Ksenia</button>
