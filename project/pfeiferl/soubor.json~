@@ -1,4 +1,5 @@
-
+Clustering rows: euclidean ward
+Adding metadata: 200 rows
 {
     "data": {
         "nodes": {
