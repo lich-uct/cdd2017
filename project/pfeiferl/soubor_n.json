@@ -1,0 +1,5013 @@
+
+{
+    "data": {
+        "nodes": {
+            "0": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id0"
+                ], 
+                "features": [
+                    0.385, 
+                    0.167, 
+                    0.64, 
+                    0.584, 
+                    0.339
+                ], 
+                "parent": 200
+            }, 
+            "1": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id1"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.259, 
+                    0.51, 
+                    0.173
+                ], 
+                "parent": 232
+            }, 
+            "2": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id2"
+                ], 
+                "features": [
+                    0.538, 
+                    0.0, 
+                    0.71, 
+                    0.781, 
+                    0.393
+                ], 
+                "parent": 262
+            }, 
+            "3": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id3"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.374, 
+                    0.565, 
+                    0.066
+                ], 
+                "parent": 312
+            }, 
+            "4": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id4"
+                ], 
+                "features": [
+                    0.615, 
+                    0.0, 
+                    0.824, 
+                    0.369, 
+                    0.427
+                ], 
+                "parent": 369
+            }, 
+            "5": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id5"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.413, 
+                    0.592, 
+                    0.13
+                ], 
+                "parent": 279
+            }, 
+            "6": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id6"
+                ], 
+                "features": [
+                    0.0, 
+                    0.0, 
+                    0.186, 
+                    0.717, 
+                    0.0
+                ], 
+                "parent": 268
+            }, 
+            "7": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id7"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.186, 
+                    0.141, 
+                    0.234
+                ], 
+                "parent": 360
+            }, 
+            "8": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id8"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.668, 
+                    0.777, 
+                    0.192
+                ], 
+                "parent": 284
+            }, 
+            "9": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id9"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.433, 
+                    0.597, 
+                    0.258
+                ], 
+                "parent": 243
+            }, 
+            "10": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id10"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.3, 
+                    0.496, 
+                    0.264
+                ], 
+                "parent": 233
+            }, 
+            "11": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id11"
+                ], 
+                "features": [
+                    0.615, 
+                    0.0, 
+                    0.929, 
+                    0.852, 
+                    0.645
+                ], 
+                "parent": 298
+            }, 
+            "12": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id12"
+                ], 
+                "features": [
+                    0.769, 
+                    0.833, 
+                    0.908, 
+                    0.338, 
+                    0.859
+                ], 
+                "parent": 376
+            }, 
+            "13": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id13"
+                ], 
+                "features": [
+                    1.0, 
+                    1.0, 
+                    0.947, 
+                    0.0, 
+                    1.0
+                ], 
+                "parent": 376
+            }, 
+            "14": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id14"
+                ], 
+                "features": [
+                    0.154, 
+                    0.5, 
+                    0.43, 
+                    0.653, 
+                    0.156
+                ], 
+                "parent": 301
+            }, 
+            "15": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id15"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.732, 
+                    0.76, 
+                    0.455
+                ], 
+                "parent": 303
+            }, 
+            "16": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id16"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.329, 
+                    0.685, 
+                    0.345
+                ], 
+                "parent": 344
+            }, 
+            "17": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id17"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.72, 
+                    0.937, 
+                    0.375
+                ], 
+                "parent": 226
+            }, 
+            "18": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id18"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.672, 
+                    0.803, 
+                    0.288
+                ], 
+                "parent": 264
+            }, 
+            "19": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id19"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.721, 
+                    0.747, 
+                    0.306
+                ], 
+                "parent": 293
+            }, 
+            "20": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id20"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.302, 
+                    0.581, 
+                    0.088
+                ], 
+                "parent": 280
+            }, 
+            "21": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id21"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.407, 
+                    0.769, 
+                    0.234
+                ], 
+                "parent": 313
+            }, 
+            "22": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id22"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.362, 
+                    0.547, 
+                    0.205
+                ], 
+                "parent": 289
+            }, 
+            "23": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id23"
+                ], 
+                "features": [
+                    0.308, 
+                    0.667, 
+                    0.341, 
+                    0.561, 
+                    0.474
+                ], 
+                "parent": 363
+            }, 
+            "24": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id24"
+                ], 
+                "features": [
+                    0.385, 
+                    0.167, 
+                    0.855, 
+                    0.829, 
+                    0.438
+                ], 
+                "parent": 261
+            }, 
+            "25": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id25"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.0, 
+                    0.461, 
+                    0.016
+                ], 
+                "parent": 263
+            }, 
+            "26": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id26"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.435, 
+                    0.439, 
+                    0.204
+                ], 
+                "parent": 295
+            }, 
+            "27": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id27"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.449, 
+                    0.724, 
+                    0.193
+                ], 
+                "parent": 205
+            }, 
+            "28": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id28"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.457, 
+                    0.935, 
+                    0.091
+                ], 
+                "parent": 328
+            }, 
+            "29": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id29"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.796, 
+                    0.908, 
+                    0.28
+                ], 
+                "parent": 302
+            }, 
+            "30": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id30"
+                ], 
+                "features": [
+                    0.462, 
+                    0.5, 
+                    0.718, 
+                    0.756, 
+                    0.486
+                ], 
+                "parent": 347
+            }, 
+            "31": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id31"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.389, 
+                    0.379, 
+                    0.345
+                ], 
+                "parent": 288
+            }, 
+            "32": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id32"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.413, 
+                    0.699, 
+                    0.173
+                ], 
+                "parent": 274
+            }, 
+            "33": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id33"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.22, 
+                    0.643, 
+                    0.091
+                ], 
+                "parent": 266
+            }, 
+            "34": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id34"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.355, 
+                    0.43, 
+                    0.341
+                ], 
+                "parent": 297
+            }, 
+            "35": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id35"
+                ], 
+                "features": [
+                    0.538, 
+                    0.167, 
+                    0.843, 
+                    0.548, 
+                    0.437
+                ], 
+                "parent": 282
+            }, 
+            "36": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id36"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.293, 
+                    0.744, 
+                    0.064
+                ], 
+                "parent": 249
+            }, 
+            "37": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id37"
+                ], 
+                "features": [
+                    0.308, 
+                    0.0, 
+                    0.657, 
+                    0.966, 
+                    0.231
+                ], 
+                "parent": 223
+            }, 
+            "38": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id38"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.403, 
+                    0.743, 
+                    0.092
+                ], 
+                "parent": 221
+            }, 
+            "39": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id39"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.314, 
+                    0.484, 
+                    0.244
+                ], 
+                "parent": 233
+            }, 
+            "40": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id40"
+                ], 
+                "features": [
+                    0.462, 
+                    0.333, 
+                    0.59, 
+                    0.556, 
+                    0.387
+                ], 
+                "parent": 335
+            }, 
+            "41": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id41"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.614, 
+                    0.832, 
+                    0.315
+                ], 
+                "parent": 330
+            }, 
+            "42": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id42"
+                ], 
+                "features": [
+                    0.462, 
+                    0.333, 
+                    0.807, 
+                    0.792, 
+                    0.489
+                ], 
+                "parent": 244
+            }, 
+            "43": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id43"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.135, 
+                    0.622, 
+                    0.016
+                ], 
+                "parent": 224
+            }, 
+            "44": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id44"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.297, 
+                    0.679, 
+                    0.172
+                ], 
+                "parent": 240
+            }, 
+            "45": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id45"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.218, 
+                    0.723, 
+                    0.016
+                ], 
+                "parent": 275
+            }, 
+            "46": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id46"
+                ], 
+                "features": [
+                    0.538, 
+                    0.167, 
+                    0.71, 
+                    0.83, 
+                    0.431
+                ], 
+                "parent": 317
+            }, 
+            "47": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id47"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.256, 
+                    0.775, 
+                    0.016
+                ], 
+                "parent": 252
+            }, 
+            "48": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id48"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.23, 
+                    0.491, 
+                    0.173
+                ], 
+                "parent": 267
+            }, 
+            "49": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id49"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.186, 
+                    0.602, 
+                    0.091
+                ], 
+                "parent": 216
+            }, 
+            "50": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id50"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.393, 
+                    0.691, 
+                    0.088
+                ], 
+                "parent": 306
+            }, 
+            "51": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id51"
+                ], 
+                "features": [
+                    0.462, 
+                    0.167, 
+                    0.29, 
+                    0.259, 
+                    0.353
+                ], 
+                "parent": 360
+            }, 
+            "52": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id52"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.329, 
+                    0.687, 
+                    0.139
+                ], 
+                "parent": 251
+            }, 
+            "53": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id53"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.719, 
+                    0.938, 
+                    0.306
+                ], 
+                "parent": 258
+            }, 
+            "54": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id54"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.36, 
+                    0.7, 
+                    0.091
+                ], 
+                "parent": 247
+            }, 
+            "55": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id55"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.319, 
+                    0.416, 
+                    0.215
+                ], 
+                "parent": 287
+            }, 
+            "56": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id56"
+                ], 
+                "features": [
+                    0.615, 
+                    0.333, 
+                    0.631, 
+                    0.464, 
+                    0.586
+                ], 
+                "parent": 348
+            }, 
+            "57": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id57"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.329, 
+                    0.404, 
+                    0.244
+                ], 
+                "parent": 287
+            }, 
+            "58": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id58"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.263, 
+                    0.661, 
+                    0.091
+                ], 
+                "parent": 227
+            }, 
+            "59": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id59"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.624, 
+                    0.808, 
+                    0.21
+                ], 
+                "parent": 319
+            }, 
+            "60": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id60"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.478, 
+                    0.691, 
+                    0.173
+                ], 
+                "parent": 210
+            }, 
+            "61": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id61"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.406, 
+                    0.403, 
+                    0.315
+                ], 
+                "parent": 297
+            }, 
+            "62": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id62"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.35, 
+                    0.737, 
+                    0.091
+                ], 
+                "parent": 247
+            }, 
+            "63": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id63"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.237, 
+                    0.533, 
+                    0.139
+                ], 
+                "parent": 236
+            }, 
+            "64": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id64"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.094, 
+                    0.303, 
+                    0.173
+                ], 
+                "parent": 285
+            }, 
+            "65": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id65"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.274, 
+                    0.682, 
+                    0.064
+                ], 
+                "parent": 220
+            }, 
+            "66": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id66"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.215, 
+                    0.466, 
+                    0.145
+                ], 
+                "parent": 246
+            }, 
+            "67": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id67"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.034, 
+                    0.502, 
+                    0.016
+                ], 
+                "parent": 263
+            }, 
+            "68": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id68"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.314, 
+                    0.437, 
+                    0.249
+                ], 
+                "parent": 204
+            }, 
+            "69": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id69"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.706, 
+                    0.956, 
+                    0.375
+                ], 
+                "parent": 226
+            }, 
+            "70": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id70"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.447, 
+                    0.805, 
+                    0.118
+                ], 
+                "parent": 207
+            }, 
+            "71": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id71"
+                ], 
+                "features": [
+                    0.308, 
+                    0.0, 
+                    0.62, 
+                    0.883, 
+                    0.231
+                ], 
+                "parent": 239
+            }, 
+            "72": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id72"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.297, 
+                    0.409, 
+                    0.227
+                ], 
+                "parent": 265
+            }, 
+            "73": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id73"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.29, 
+                    0.724, 
+                    0.07
+                ], 
+                "parent": 231
+            }, 
+            "74": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id74"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.261, 
+                    0.741, 
+                    0.016
+                ], 
+                "parent": 218
+            }, 
+            "75": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id75"
+                ], 
+                "features": [
+                    0.462, 
+                    0.333, 
+                    0.72, 
+                    0.755, 
+                    0.489
+                ], 
+                "parent": 276
+            }, 
+            "76": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id76"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.249, 
+                    0.311, 
+                    0.129
+                ], 
+                "parent": 324
+            }, 
+            "77": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id77"
+                ], 
+                "features": [
+                    0.462, 
+                    0.333, 
+                    0.706, 
+                    0.817, 
+                    0.489
+                ], 
+                "parent": 276
+            }, 
+            "78": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id78"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.263, 
+                    0.639, 
+                    0.237
+                ], 
+                "parent": 215
+            }, 
+            "79": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id79"
+                ], 
+                "features": [
+                    0.462, 
+                    0.167, 
+                    0.762, 
+                    0.928, 
+                    0.425
+                ], 
+                "parent": 317
+            }, 
+            "80": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id80"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.403, 
+                    0.578, 
+                    0.199
+                ], 
+                "parent": 257
+            }, 
+            "81": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id81"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.678, 
+                    0.685, 
+                    0.259
+                ], 
+                "parent": 330
+            }, 
+            "82": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id82"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.278, 
+                    0.527, 
+                    0.173
+                ], 
+                "parent": 232
+            }, 
+            "83": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id83"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.68, 
+                    0.702, 
+                    0.161
+                ], 
+                "parent": 284
+            }, 
+            "84": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id84"
+                ], 
+                "features": [
+                    0.231, 
+                    0.0, 
+                    0.295, 
+                    0.705, 
+                    0.253
+                ], 
+                "parent": 344
+            }, 
+            "85": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id85"
+                ], 
+                "features": [
+                    0.615, 
+                    0.167, 
+                    0.867, 
+                    0.548, 
+                    0.504
+                ], 
+                "parent": 309
+            }, 
+            "86": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id86"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.319, 
+                    0.843, 
+                    0.016
+                ], 
+                "parent": 248
+            }, 
+            "87": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id87"
+                ], 
+                "features": [
+                    0.462, 
+                    0.333, 
+                    0.684, 
+                    0.416, 
+                    0.434
+                ], 
+                "parent": 335
+            }, 
+            "88": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id88"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.547, 
+                    0.624, 
+                    0.283
+                ], 
+                "parent": 299
+            }, 
+            "89": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id89"
+                ], 
+                "features": [
+                    0.308, 
+                    0.0, 
+                    0.595, 
+                    0.9, 
+                    0.231
+                ], 
+                "parent": 239
+            }, 
+            "90": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id90"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.679, 
+                    0.919, 
+                    0.306
+                ], 
+                "parent": 258
+            }, 
+            "91": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id91"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.263, 
+                    0.639, 
+                    0.237
+                ], 
+                "parent": 215
+            }, 
+            "92": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id92"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.22, 
+                    0.697, 
+                    0.092
+                ], 
+                "parent": 241
+            }, 
+            "93": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id93"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.355, 
+                    0.536, 
+                    0.173
+                ], 
+                "parent": 242
+            }, 
+            "94": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id94"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.121, 
+                    0.614, 
+                    0.016
+                ], 
+                "parent": 224
+            }, 
+            "95": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id95"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.534, 
+                    0.566, 
+                    0.312
+                ], 
+                "parent": 299
+            }, 
+            "96": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id96"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.38, 
+                    0.599, 
+                    0.173
+                ], 
+                "parent": 222
+            }, 
+            "97": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id97"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.23, 
+                    0.58, 
+                    0.034
+                ], 
+                "parent": 292
+            }, 
+            "98": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id98"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.288, 
+                    0.463, 
+                    0.25
+                ], 
+                "parent": 253
+            }, 
+            "99": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id99"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.36, 
+                    0.666, 
+                    0.173
+                ], 
+                "parent": 274
+            }, 
+            "100": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id100"
+                ], 
+                "features": [
+                    0.538, 
+                    0.0, 
+                    1.0, 
+                    0.972, 
+                    0.506
+                ], 
+                "parent": 359
+            }, 
+            "101": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id101"
+                ], 
+                "features": [
+                    0.462, 
+                    0.0, 
+                    0.785, 
+                    0.961, 
+                    0.36
+                ], 
+                "parent": 290
+            }, 
+            "102": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id102"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.341, 
+                    0.488, 
+                    0.263
+                ], 
+                "parent": 289
+            }, 
+            "103": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id103"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.638, 
+                    0.665, 
+                    0.264
+                ], 
+                "parent": 202
+            }, 
+            "104": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id104"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.186, 
+                    0.602, 
+                    0.091
+                ], 
+                "parent": 216
+            }, 
+            "105": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id105"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.384, 
+                    0.832, 
+                    0.092
+                ], 
+                "parent": 250
+            }, 
+            "106": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id106"
+                ], 
+                "features": [
+                    0.538, 
+                    0.167, 
+                    0.904, 
+                    0.59, 
+                    0.458
+                ], 
+                "parent": 282
+            }, 
+            "107": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id107"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.341, 
+                    0.43, 
+                    0.299
+                ], 
+                "parent": 288
+            }, 
+            "108": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id108"
+                ], 
+                "features": [
+                    0.0, 
+                    0.0, 
+                    0.288, 
+                    0.866, 
+                    0.0
+                ], 
+                "parent": 337
+            }, 
+            "109": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id109"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.394, 
+                    0.715, 
+                    0.034
+                ], 
+                "parent": 254
+            }, 
+            "110": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id110"
+                ], 
+                "features": [
+                    0.462, 
+                    0.0, 
+                    0.789, 
+                    0.947, 
+                    0.445
+                ], 
+                "parent": 290
+            }, 
+            "111": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id111"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.346, 
+                    0.569, 
+                    0.173
+                ], 
+                "parent": 242
+            }, 
+            "112": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id112"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.599, 
+                    0.82, 
+                    0.285
+                ], 
+                "parent": 229
+            }, 
+            "113": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id113"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.191, 
+                    0.595, 
+                    0.064
+                ], 
+                "parent": 272
+            }, 
+            "114": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id114"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.193, 
+                    0.515, 
+                    0.139
+                ], 
+                "parent": 273
+            }, 
+            "115": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id115"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.266, 
+                    0.516, 
+                    0.193
+                ], 
+                "parent": 307
+            }, 
+            "116": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id116"
+                ], 
+                "features": [
+                    0.231, 
+                    0.5, 
+                    0.302, 
+                    0.6, 
+                    0.355
+                ], 
+                "parent": 213
+            }, 
+            "117": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id117"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.292, 
+                    0.698, 
+                    0.147
+                ], 
+                "parent": 240
+            }, 
+            "118": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id118"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.305, 
+                    0.467, 
+                    0.164
+                ], 
+                "parent": 256
+            }, 
+            "119": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id119"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.225, 
+                    0.678, 
+                    0.118
+                ], 
+                "parent": 241
+            }, 
+            "120": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id120"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.326, 
+                    0.767, 
+                    0.064
+                ], 
+                "parent": 249
+            }, 
+            "121": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id121"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.403, 
+                    0.722, 
+                    0.091
+                ], 
+                "parent": 230
+            }, 
+            "122": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id122"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.478, 
+                    0.691, 
+                    0.173
+                ], 
+                "parent": 210
+            }, 
+            "123": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id123"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.545, 
+                    0.727, 
+                    0.24
+                ], 
+                "parent": 321
+            }, 
+            "124": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id124"
+                ], 
+                "features": [
+                    0.231, 
+                    0.5, 
+                    0.302, 
+                    0.6, 
+                    0.355
+                ], 
+                "parent": 213
+            }, 
+            "125": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id125"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.447, 
+                    0.805, 
+                    0.118
+                ], 
+                "parent": 207
+            }, 
+            "126": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id126"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.295, 
+                    0.664, 
+                    0.139
+                ], 
+                "parent": 251
+            }, 
+            "127": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id127"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.263, 
+                    0.596, 
+                    0.118
+                ], 
+                "parent": 238
+            }, 
+            "128": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id128"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.284, 
+                    0.545, 
+                    0.145
+                ], 
+                "parent": 280
+            }, 
+            "129": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id129"
+                ], 
+                "features": [
+                    0.0, 
+                    0.0, 
+                    0.229, 
+                    0.735, 
+                    0.0
+                ], 
+                "parent": 228
+            }, 
+            "130": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id130"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.365, 
+                    0.593, 
+                    0.145
+                ], 
+                "parent": 255
+            }, 
+            "131": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id131"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.403, 
+                    0.688, 
+                    0.091
+                ], 
+                "parent": 271
+            }, 
+            "132": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id132"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.681, 
+                    0.683, 
+                    0.264
+                ], 
+                "parent": 203
+            }, 
+            "133": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id133"
+                ], 
+                "features": [
+                    0.692, 
+                    0.0, 
+                    0.943, 
+                    0.79, 
+                    0.635
+                ], 
+                "parent": 298
+            }, 
+            "134": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id134"
+                ], 
+                "features": [
+                    0.308, 
+                    0.0, 
+                    0.686, 
+                    0.976, 
+                    0.231
+                ], 
+                "parent": 259
+            }, 
+            "135": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id135"
+                ], 
+                "features": [
+                    0.462, 
+                    0.167, 
+                    0.819, 
+                    0.598, 
+                    0.383
+                ], 
+                "parent": 260
+            }, 
+            "136": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id136"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.261, 
+                    0.741, 
+                    0.016
+                ], 
+                "parent": 218
+            }, 
+            "137": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id137"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.474, 
+                    0.5, 
+                    0.264
+                ], 
+                "parent": 295
+            }, 
+            "138": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id138"
+                ], 
+                "features": [
+                    0.077, 
+                    0.5, 
+                    0.337, 
+                    0.754, 
+                    0.168
+                ], 
+                "parent": 343
+            }, 
+            "139": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id139"
+                ], 
+                "features": [
+                    0.154, 
+                    0.5, 
+                    0.485, 
+                    0.647, 
+                    0.243
+                ], 
+                "parent": 301
+            }, 
+            "140": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id140"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.314, 
+                    0.437, 
+                    0.249
+                ], 
+                "parent": 204
+            }, 
+            "141": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id141"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.274, 
+                    0.682, 
+                    0.064
+                ], 
+                "parent": 220
+            }, 
+            "142": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id142"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.276, 
+                    0.602, 
+                    0.139
+                ], 
+                "parent": 214
+            }, 
+            "143": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id143"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.273, 
+                    0.459, 
+                    0.199
+                ], 
+                "parent": 234
+            }, 
+            "144": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id144"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.677, 
+                    0.626, 
+                    0.382
+                ], 
+                "parent": 281
+            }, 
+            "145": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id145"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.633, 
+                    0.853, 
+                    0.285
+                ], 
+                "parent": 269
+            }, 
+            "146": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id146"
+                ], 
+                "features": [
+                    0.538, 
+                    0.0, 
+                    0.824, 
+                    0.932, 
+                    0.414
+                ], 
+                "parent": 300
+            }, 
+            "147": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id147"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.261, 
+                    0.741, 
+                    0.016
+                ], 
+                "parent": 219
+            }, 
+            "148": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id148"
+                ], 
+                "features": [
+                    0.154, 
+                    0.5, 
+                    0.256, 
+                    0.642, 
+                    0.245
+                ], 
+                "parent": 333
+            }, 
+            "149": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id149"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.449, 
+                    0.724, 
+                    0.193
+                ], 
+                "parent": 205
+            }, 
+            "150": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id150"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.42, 
+                    0.681, 
+                    0.034
+                ], 
+                "parent": 254
+            }, 
+            "151": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id151"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.157, 
+                    0.355, 
+                    0.173
+                ], 
+                "parent": 237
+            }, 
+            "152": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id152"
+                ], 
+                "features": [
+                    0.462, 
+                    0.0, 
+                    0.638, 
+                    0.78, 
+                    0.339
+                ], 
+                "parent": 209
+            }, 
+            "153": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id153"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.355, 
+                    0.804, 
+                    0.091
+                ], 
+                "parent": 250
+            }, 
+            "154": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id154"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.674, 
+                    0.697, 
+                    0.391
+                ], 
+                "parent": 281
+            }, 
+            "155": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id155"
+                ], 
+                "features": [
+                    0.308, 
+                    0.0, 
+                    0.561, 
+                    0.86, 
+                    0.231
+                ], 
+                "parent": 277
+            }, 
+            "156": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id156"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.293, 
+                    0.562, 
+                    0.173
+                ], 
+                "parent": 201
+            }, 
+            "157": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id157"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.278, 
+                    0.466, 
+                    0.173
+                ], 
+                "parent": 234
+            }, 
+            "158": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id158"
+                ], 
+                "features": [
+                    0.615, 
+                    0.5, 
+                    0.805, 
+                    0.49, 
+                    0.607
+                ], 
+                "parent": 348
+            }, 
+            "159": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id159"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.749, 
+                    1.0, 
+                    0.285
+                ], 
+                "parent": 302
+            }, 
+            "160": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id160"
+                ], 
+                "features": [
+                    0.385, 
+                    0.333, 
+                    0.815, 
+                    0.847, 
+                    0.455
+                ], 
+                "parent": 305
+            }, 
+            "161": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id161"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.478, 
+                    0.691, 
+                    0.173
+                ], 
+                "parent": 211
+            }, 
+            "162": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id162"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.227, 
+                    0.556, 
+                    0.139
+                ], 
+                "parent": 212
+            }, 
+            "163": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id163"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.234, 
+                    0.499, 
+                    0.145
+                ], 
+                "parent": 246
+            }, 
+            "164": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id164"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.227, 
+                    0.556, 
+                    0.139
+                ], 
+                "parent": 212
+            }, 
+            "165": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id165"
+                ], 
+                "features": [
+                    0.0, 
+                    0.0, 
+                    0.22, 
+                    0.758, 
+                    0.0
+                ], 
+                "parent": 228
+            }, 
+            "166": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id166"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.225, 
+                    0.636, 
+                    0.064
+                ], 
+                "parent": 217
+            }, 
+            "167": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id167"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.234, 
+                    0.614, 
+                    0.064
+                ], 
+                "parent": 235
+            }, 
+            "168": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id168"
+                ], 
+                "features": [
+                    0.077, 
+                    0.333, 
+                    0.225, 
+                    0.636, 
+                    0.064
+                ], 
+                "parent": 217
+            }, 
+            "169": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id169"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.276, 
+                    0.602, 
+                    0.139
+                ], 
+                "parent": 214
+            }, 
+            "170": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id170"
+                ], 
+                "features": [
+                    0.154, 
+                    0.167, 
+                    0.391, 
+                    0.559, 
+                    0.145
+                ], 
+                "parent": 255
+            }, 
+            "171": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id171"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.619, 
+                    0.904, 
+                    0.308
+                ], 
+                "parent": 269
+            }, 
+            "172": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id172"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.681, 
+                    0.683, 
+                    0.264
+                ], 
+                "parent": 203
+            }, 
+            "173": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id173"
+                ], 
+                "features": [
+                    0.462, 
+                    0.0, 
+                    0.718, 
+                    0.879, 
+                    0.36
+                ], 
+                "parent": 316
+            }, 
+            "174": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id174"
+                ], 
+                "features": [
+                    0.0, 
+                    0.167, 
+                    0.301, 
+                    0.809, 
+                    0.016
+                ], 
+                "parent": 248
+            }, 
+            "175": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id175"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.303, 
+                    0.729, 
+                    0.091
+                ], 
+                "parent": 231
+            }, 
+            "176": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id176"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.259, 
+                    0.658, 
+                    0.211
+                ], 
+                "parent": 245
+            }, 
+            "177": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id177"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.41, 
+                    0.744, 
+                    0.091
+                ], 
+                "parent": 221
+            }, 
+            "178": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id178"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.254, 
+                    0.683, 
+                    0.091
+                ], 
+                "parent": 227
+            }, 
+            "179": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id179"
+                ], 
+                "features": [
+                    0.077, 
+                    0.167, 
+                    0.313, 
+                    0.666, 
+                    0.034
+                ], 
+                "parent": 294
+            }, 
+            "180": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id180"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.638, 
+                    0.762, 
+                    0.288
+                ], 
+                "parent": 264
+            }, 
+            "181": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id181"
+                ], 
+                "features": [
+                    0.308, 
+                    0.0, 
+                    0.643, 
+                    0.958, 
+                    0.231
+                ], 
+                "parent": 223
+            }, 
+            "182": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id182"
+                ], 
+                "features": [
+                    0.154, 
+                    0.333, 
+                    0.447, 
+                    0.805, 
+                    0.118
+                ], 
+                "parent": 208
+            }, 
+            "183": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id183"
+                ], 
+                "features": [
+                    0.231, 
+                    0.333, 
+                    0.449, 
+                    0.724, 
+                    0.193
+                ], 
+                "parent": 206
+            }, 
+            "184": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id184"
+                ], 
+                "features": [
+                    0.462, 
+                    0.167, 
+                    0.916, 
+                    0.678, 
+                    0.383
+                ], 
+                "parent": 225
+            }, 
+            "185": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id185"
+                ], 
+                "features": [
+                    0.308, 
+                    0.167, 
+                    0.638, 
+                    0.665, 
+                    0.264
+                ], 
+                "parent": 202
+            }, 
+            "186": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id186"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.395, 
+                    0.604, 
+                    0.173
+                ], 
+                "parent": 222
+            }, 
+            "187": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id187"
+                ], 
+                "features": [
+                    0.538, 
+                    0.0, 
+                    0.713, 
+                    0.825, 
+                    0.414
+                ], 
+                "parent": 262
+            }, 
+            "188": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id188"
+                ], 
+                "features": [
+                    0.385, 
+                    0.167, 
+                    0.821, 
+                    0.788, 
+                    0.438
+                ], 
+                "parent": 291
+            }, 
+            "189": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id189"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.128, 
+                    0.355, 
+                    0.173
+                ], 
+                "parent": 237
+            }, 
+            "190": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id190"
+                ], 
+                "features": [
+                    0.462, 
+                    0.0, 
+                    0.638, 
+                    0.78, 
+                    0.339
+                ], 
+                "parent": 209
+            }, 
+            "191": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id191"
+                ], 
+                "features": [
+                    0.462, 
+                    0.167, 
+                    0.718, 
+                    0.462, 
+                    0.383
+                ], 
+                "parent": 327
+            }, 
+            "192": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id192"
+                ], 
+                "features": [
+                    0.385, 
+                    0.167, 
+                    0.64, 
+                    0.584, 
+                    0.339
+                ], 
+                "parent": 200
+            }, 
+            "193": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id193"
+                ], 
+                "features": [
+                    0.385, 
+                    0.0, 
+                    0.609, 
+                    0.797, 
+                    0.285
+                ], 
+                "parent": 229
+            }, 
+            "194": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id194"
+                ], 
+                "features": [
+                    0.462, 
+                    0.167, 
+                    0.901, 
+                    0.67, 
+                    0.383
+                ], 
+                "parent": 225
+            }, 
+            "195": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id195"
+                ], 
+                "features": [
+                    0.385, 
+                    0.167, 
+                    0.899, 
+                    0.847, 
+                    0.438
+                ], 
+                "parent": 261
+            }, 
+            "196": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id196"
+                ], 
+                "features": [
+                    0.231, 
+                    0.167, 
+                    0.293, 
+                    0.562, 
+                    0.173
+                ], 
+                "parent": 201
+            }, 
+            "197": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id197"
+                ], 
+                "features": [
+                    0.308, 
+                    0.333, 
+                    0.462, 
+                    0.616, 
+                    0.258
+                ], 
+                "parent": 243
+            }, 
+            "198": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id198"
+                ], 
+                "features": [
+                    0.462, 
+                    0.333, 
+                    0.798, 
+                    0.828, 
+                    0.489
+                ], 
+                "parent": 244
+            }, 
+            "199": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "molekula_id199"
+                ], 
+                "features": [
+                    0.462, 
+                    0.167, 
+                    0.785, 
+                    0.565, 
+                    0.383
+                ], 
+                "parent": 260
+            }, 
+            "200": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 0, 
+                "parent": 352, 
+                "right_child": 192
+            }, 
+            "201": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 156, 
+                "parent": 286, 
+                "right_child": 196
+            }, 
+            "202": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 103, 
+                "parent": 278, 
+                "right_child": 185
+            }, 
+            "203": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 132, 
+                "parent": 278, 
+                "right_child": 172
+            }, 
+            "204": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 68, 
+                "parent": 253, 
+                "right_child": 140
+            }, 
+            "205": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 27, 
+                "parent": 206, 
+                "right_child": 149
+            }, 
+            "206": {
+                "count": 3, 
+                "distance": 0.0, 
+                "left_child": 183, 
+                "parent": 313, 
+                "right_child": 205
+            }, 
+            "207": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 70, 
+                "parent": 208, 
+                "right_child": 125
+            }, 
+            "208": {
+                "count": 3, 
+                "distance": 0.0, 
+                "left_child": 182, 
+                "parent": 351, 
+                "right_child": 207
+            }, 
+            "209": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 152, 
+                "parent": 336, 
+                "right_child": 190
+            }, 
+            "210": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 60, 
+                "parent": 211, 
+                "right_child": 122
+            }, 
+            "211": {
+                "count": 3, 
+                "distance": 0.0, 
+                "left_child": 161, 
+                "parent": 320, 
+                "right_child": 210
+            }, 
+            "212": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 162, 
+                "parent": 236, 
+                "right_child": 164
+            }, 
+            "213": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 116, 
+                "parent": 333, 
+                "right_child": 124
+            }, 
+            "214": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 142, 
+                "parent": 238, 
+                "right_child": 169
+            }, 
+            "215": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 78, 
+                "parent": 245, 
+                "right_child": 91
+            }, 
+            "216": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 49, 
+                "parent": 292, 
+                "right_child": 104
+            }, 
+            "217": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 166, 
+                "parent": 235, 
+                "right_child": 168
+            }, 
+            "218": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 74, 
+                "parent": 219, 
+                "right_child": 136
+            }, 
+            "219": {
+                "count": 3, 
+                "distance": 0.0, 
+                "left_child": 147, 
+                "parent": 252, 
+                "right_child": 218
+            }, 
+            "220": {
+                "count": 2, 
+                "distance": 0.0, 
+                "left_child": 65, 
+                "parent": 311, 
+                "right_child": 141
+            }, 
+            "221": {
+                "count": 2, 
+                "distance": 0.007, 
+                "left_child": 38, 
+                "parent": 230, 
+                "right_child": 177
+            }, 
+            "222": {
+                "count": 2, 
+                "distance": 0.016, 
+                "left_child": 96, 
+                "parent": 257, 
+                "right_child": 186
+            }, 
+            "223": {
+                "count": 2, 
+                "distance": 0.016, 
+                "left_child": 37, 
+                "parent": 259, 
+                "right_child": 181
+            }, 
+            "224": {
+                "count": 2, 
+                "distance": 0.016, 
+                "left_child": 43, 
+                "parent": 338, 
+                "right_child": 94
+            }, 
+            "225": {
+                "count": 2, 
+                "distance": 0.017, 
+                "left_child": 184, 
+                "parent": 356, 
+                "right_child": 194
+            }, 
+            "226": {
+                "count": 2, 
+                "distance": 0.024, 
+                "left_child": 17, 
+                "parent": 367, 
+                "right_child": 69
+            }, 
+            "227": {
+                "count": 2, 
+                "distance": 0.024, 
+                "left_child": 58, 
+                "parent": 270, 
+                "right_child": 178
+            }, 
+            "228": {
+                "count": 2, 
+                "distance": 0.025, 
+                "left_child": 129, 
+                "parent": 268, 
+                "right_child": 165
+            }, 
+            "229": {
+                "count": 2, 
+                "distance": 0.025, 
+                "left_child": 112, 
+                "parent": 304, 
+                "right_child": 193
+            }, 
+            "230": {
+                "count": 3, 
+                "distance": 0.025, 
+                "left_child": 121, 
+                "parent": 271, 
+                "right_child": 221
+            }, 
+            "231": {
+                "count": 2, 
+                "distance": 0.025, 
+                "left_child": 73, 
+                "parent": 294, 
+                "right_child": 175
+            }, 
+            "232": {
+                "count": 2, 
+                "distance": 0.025, 
+                "left_child": 1, 
+                "parent": 267, 
+                "right_child": 82
+            }, 
+            "233": {
+                "count": 2, 
+                "distance": 0.027, 
+                "left_child": 10, 
+                "parent": 314, 
+                "right_child": 39
+            }, 
+            "234": {
+                "count": 2, 
+                "distance": 0.027, 
+                "left_child": 143, 
+                "parent": 256, 
+                "right_child": 157
+            }, 
+            "235": {
+                "count": 3, 
+                "distance": 0.027, 
+                "left_child": 167, 
+                "parent": 272, 
+                "right_child": 217
+            }, 
+            "236": {
+                "count": 3, 
+                "distance": 0.029, 
+                "left_child": 63, 
+                "parent": 273, 
+                "right_child": 212
+            }, 
+            "237": {
+                "count": 2, 
+                "distance": 0.029, 
+                "left_child": 151, 
+                "parent": 285, 
+                "right_child": 189
+            }, 
+            "238": {
+                "count": 3, 
+                "distance": 0.029, 
+                "left_child": 127, 
+                "parent": 315, 
+                "right_child": 214
+            }, 
+            "239": {
+                "count": 2, 
+                "distance": 0.03, 
+                "left_child": 71, 
+                "parent": 277, 
+                "right_child": 89
+            }, 
+            "240": {
+                "count": 2, 
+                "distance": 0.032, 
+                "left_child": 44, 
+                "parent": 342, 
+                "right_child": 117
+            }, 
+            "241": {
+                "count": 2, 
+                "distance": 0.033, 
+                "left_child": 92, 
+                "parent": 266, 
+                "right_child": 119
+            }, 
+            "242": {
+                "count": 2, 
+                "distance": 0.034, 
+                "left_child": 93, 
+                "parent": 286, 
+                "right_child": 111
+            }, 
+            "243": {
+                "count": 2, 
+                "distance": 0.035, 
+                "left_child": 9, 
+                "parent": 322, 
+                "right_child": 197
+            }, 
+            "244": {
+                "count": 2, 
+                "distance": 0.037, 
+                "left_child": 42, 
+                "parent": 305, 
+                "right_child": 198
+            }, 
+            "245": {
+                "count": 3, 
+                "distance": 0.037, 
+                "left_child": 176, 
+                "parent": 340, 
+                "right_child": 215
+            }, 
+            "246": {
+                "count": 2, 
+                "distance": 0.038, 
+                "left_child": 66, 
+                "parent": 325, 
+                "right_child": 163
+            }, 
+            "247": {
+                "count": 2, 
+                "distance": 0.038, 
+                "left_child": 54, 
+                "parent": 283, 
+                "right_child": 62
+            }, 
+            "248": {
+                "count": 2, 
+                "distance": 0.038, 
+                "left_child": 86, 
+                "parent": 331, 
+                "right_child": 174
+            }, 
+            "249": {
+                "count": 2, 
+                "distance": 0.04, 
+                "left_child": 36, 
+                "parent": 311, 
+                "right_child": 120
+            }, 
+            "250": {
+                "count": 2, 
+                "distance": 0.04, 
+                "left_child": 105, 
+                "parent": 328, 
+                "right_child": 153
+            }, 
+            "251": {
+                "count": 2, 
+                "distance": 0.041, 
+                "left_child": 52, 
+                "parent": 315, 
+                "right_child": 126
+            }, 
+            "252": {
+                "count": 4, 
+                "distance": 0.042, 
+                "left_child": 47, 
+                "parent": 275, 
+                "right_child": 219
+            }, 
+            "253": {
+                "count": 3, 
+                "distance": 0.042, 
+                "left_child": 98, 
+                "parent": 265, 
+                "right_child": 204
+            }, 
+            "254": {
+                "count": 2, 
+                "distance": 0.043, 
+                "left_child": 109, 
+                "parent": 308, 
+                "right_child": 150
+            }, 
+            "255": {
+                "count": 2, 
+                "distance": 0.043, 
+                "left_child": 130, 
+                "parent": 312, 
+                "right_child": 170
+            }, 
+            "256": {
+                "count": 3, 
+                "distance": 0.043, 
+                "left_child": 118, 
+                "parent": 296, 
+                "right_child": 234
+            }, 
+            "257": {
+                "count": 3, 
+                "distance": 0.044, 
+                "left_child": 80, 
+                "parent": 279, 
+                "right_child": 222
+            }, 
+            "258": {
+                "count": 2, 
+                "distance": 0.044, 
+                "left_child": 53, 
+                "parent": 310, 
+                "right_child": 90
+            }, 
+            "259": {
+                "count": 3, 
+                "distance": 0.045, 
+                "left_child": 134, 
+                "parent": 341, 
+                "right_child": 223
+            }, 
+            "260": {
+                "count": 2, 
+                "distance": 0.047, 
+                "left_child": 135, 
+                "parent": 327, 
+                "right_child": 199
+            }, 
+            "261": {
+                "count": 2, 
+                "distance": 0.048, 
+                "left_child": 24, 
+                "parent": 291, 
+                "right_child": 195
+            }, 
+            "262": {
+                "count": 2, 
+                "distance": 0.049, 
+                "left_child": 2, 
+                "parent": 316, 
+                "right_child": 187
+            }, 
+            "263": {
+                "count": 2, 
+                "distance": 0.053, 
+                "left_child": 25, 
+                "parent": 365, 
+                "right_child": 67
+            }, 
+            "264": {
+                "count": 2, 
+                "distance": 0.053, 
+                "left_child": 18, 
+                "parent": 293, 
+                "right_child": 180
+            }, 
+            "265": {
+                "count": 4, 
+                "distance": 0.054, 
+                "left_child": 72, 
+                "parent": 334, 
+                "right_child": 253
+            }, 
+            "266": {
+                "count": 3, 
+                "distance": 0.054, 
+                "left_child": 33, 
+                "parent": 270, 
+                "right_child": 241
+            }, 
+            "267": {
+                "count": 3, 
+                "distance": 0.055, 
+                "left_child": 48, 
+                "parent": 296, 
+                "right_child": 232
+            }, 
+            "268": {
+                "count": 3, 
+                "distance": 0.056, 
+                "left_child": 6, 
+                "parent": 337, 
+                "right_child": 228
+            }, 
+            "269": {
+                "count": 2, 
+                "distance": 0.058, 
+                "left_child": 145, 
+                "parent": 304, 
+                "right_child": 171
+            }, 
+            "270": {
+                "count": 5, 
+                "distance": 0.059, 
+                "left_child": 227, 
+                "parent": 323, 
+                "right_child": 266
+            }, 
+            "271": {
+                "count": 4, 
+                "distance": 0.059, 
+                "left_child": 131, 
+                "parent": 283, 
+                "right_child": 230
+            }, 
+            "272": {
+                "count": 4, 
+                "distance": 0.061, 
+                "left_child": 113, 
+                "parent": 349, 
+                "right_child": 235
+            }, 
+            "273": {
+                "count": 4, 
+                "distance": 0.061, 
+                "left_child": 114, 
+                "parent": 353, 
+                "right_child": 236
+            }, 
+            "274": {
+                "count": 2, 
+                "distance": 0.062, 
+                "left_child": 32, 
+                "parent": 320, 
+                "right_child": 99
+            }, 
+            "275": {
+                "count": 5, 
+                "distance": 0.063, 
+                "left_child": 45, 
+                "parent": 331, 
+                "right_child": 252
+            }, 
+            "276": {
+                "count": 2, 
+                "distance": 0.064, 
+                "left_child": 75, 
+                "parent": 303, 
+                "right_child": 77
+            }, 
+            "277": {
+                "count": 3, 
+                "distance": 0.065, 
+                "left_child": 155, 
+                "parent": 341, 
+                "right_child": 239
+            }, 
+            "278": {
+                "count": 4, 
+                "distance": 0.066, 
+                "left_child": 202, 
+                "parent": 339, 
+                "right_child": 203
+            }, 
+            "279": {
+                "count": 4, 
+                "distance": 0.068, 
+                "left_child": 5, 
+                "parent": 326, 
+                "right_child": 257
+            }, 
+            "280": {
+                "count": 2, 
+                "distance": 0.07, 
+                "left_child": 20, 
+                "parent": 318, 
+                "right_child": 128
+            }, 
+            "281": {
+                "count": 2, 
+                "distance": 0.072, 
+                "left_child": 144, 
+                "parent": 346, 
+                "right_child": 154
+            }, 
+            "282": {
+                "count": 2, 
+                "distance": 0.077, 
+                "left_child": 35, 
+                "parent": 309, 
+                "right_child": 106
+            }, 
+            "283": {
+                "count": 6, 
+                "distance": 0.082, 
+                "left_child": 247, 
+                "parent": 306, 
+                "right_child": 271
+            }, 
+            "284": {
+                "count": 2, 
+                "distance": 0.082, 
+                "left_child": 8, 
+                "parent": 319, 
+                "right_child": 83
+            }, 
+            "285": {
+                "count": 3, 
+                "distance": 0.082, 
+                "left_child": 64, 
+                "parent": 324, 
+                "right_child": 237
+            }, 
+            "286": {
+                "count": 4, 
+                "distance": 0.082, 
+                "left_child": 201, 
+                "parent": 326, 
+                "right_child": 242
+            }, 
+            "287": {
+                "count": 2, 
+                "distance": 0.084, 
+                "left_child": 55, 
+                "parent": 314, 
+                "right_child": 57
+            }, 
+            "288": {
+                "count": 2, 
+                "distance": 0.084, 
+                "left_child": 31, 
+                "parent": 334, 
+                "right_child": 107
+            }, 
+            "289": {
+                "count": 2, 
+                "distance": 0.085, 
+                "left_child": 22, 
+                "parent": 307, 
+                "right_child": 102
+            }, 
+            "290": {
+                "count": 2, 
+                "distance": 0.086, 
+                "left_child": 101, 
+                "parent": 300, 
+                "right_child": 110
+            }, 
+            "291": {
+                "count": 3, 
+                "distance": 0.087, 
+                "left_child": 188, 
+                "parent": 357, 
+                "right_child": 261
+            }, 
+            "292": {
+                "count": 3, 
+                "distance": 0.087, 
+                "left_child": 97, 
+                "parent": 338, 
+                "right_child": 216
+            }, 
+            "293": {
+                "count": 3, 
+                "distance": 0.089, 
+                "left_child": 19, 
+                "parent": 339, 
+                "right_child": 264
+            }, 
+            "294": {
+                "count": 3, 
+                "distance": 0.09, 
+                "left_child": 179, 
+                "parent": 323, 
+                "right_child": 231
+            }, 
+            "295": {
+                "count": 2, 
+                "distance": 0.094, 
+                "left_child": 26, 
+                "parent": 350, 
+                "right_child": 137
+            }, 
+            "296": {
+                "count": 6, 
+                "distance": 0.094, 
+                "left_child": 256, 
+                "parent": 325, 
+                "right_child": 267
+            }, 
+            "297": {
+                "count": 2, 
+                "distance": 0.1, 
+                "left_child": 34, 
+                "parent": 355, 
+                "right_child": 61
+            }, 
+            "298": {
+                "count": 2, 
+                "distance": 0.1, 
+                "left_child": 11, 
+                "parent": 359, 
+                "right_child": 133
+            }, 
+            "299": {
+                "count": 2, 
+                "distance": 0.102, 
+                "left_child": 88, 
+                "parent": 322, 
+                "right_child": 95
+            }, 
+            "300": {
+                "count": 3, 
+                "distance": 0.102, 
+                "left_child": 146, 
+                "parent": 361, 
+                "right_child": 290
+            }, 
+            "301": {
+                "count": 2, 
+                "distance": 0.103, 
+                "left_child": 14, 
+                "parent": 343, 
+                "right_child": 139
+            }, 
+            "302": {
+                "count": 2, 
+                "distance": 0.103, 
+                "left_child": 29, 
+                "parent": 310, 
+                "right_child": 159
+            }, 
+            "303": {
+                "count": 3, 
+                "distance": 0.104, 
+                "left_child": 15, 
+                "parent": 332, 
+                "right_child": 276
+            }, 
+            "304": {
+                "count": 4, 
+                "distance": 0.105, 
+                "left_child": 229, 
+                "parent": 358, 
+                "right_child": 269
+            }, 
+            "305": {
+                "count": 3, 
+                "distance": 0.107, 
+                "left_child": 160, 
+                "parent": 332, 
+                "right_child": 244
+            }, 
+            "306": {
+                "count": 7, 
+                "distance": 0.109, 
+                "left_child": 50, 
+                "parent": 308, 
+                "right_child": 283
+            }, 
+            "307": {
+                "count": 3, 
+                "distance": 0.11, 
+                "left_child": 115, 
+                "parent": 329, 
+                "right_child": 289
+            }, 
+            "308": {
+                "count": 9, 
+                "distance": 0.112, 
+                "left_child": 254, 
+                "parent": 362, 
+                "right_child": 306
+            }, 
+            "309": {
+                "count": 3, 
+                "distance": 0.113, 
+                "left_child": 85, 
+                "parent": 356, 
+                "right_child": 282
+            }, 
+            "310": {
+                "count": 4, 
+                "distance": 0.115, 
+                "left_child": 258, 
+                "parent": 361, 
+                "right_child": 302
+            }, 
+            "311": {
+                "count": 4, 
+                "distance": 0.115, 
+                "left_child": 220, 
+                "parent": 349, 
+                "right_child": 249
+            }, 
+            "312": {
+                "count": 3, 
+                "distance": 0.128, 
+                "left_child": 3, 
+                "parent": 318, 
+                "right_child": 255
+            }, 
+            "313": {
+                "count": 4, 
+                "distance": 0.131, 
+                "left_child": 21, 
+                "parent": 321, 
+                "right_child": 206
+            }, 
+            "314": {
+                "count": 4, 
+                "distance": 0.132, 
+                "left_child": 233, 
+                "parent": 329, 
+                "right_child": 287
+            }, 
+            "315": {
+                "count": 5, 
+                "distance": 0.133, 
+                "left_child": 238, 
+                "parent": 340, 
+                "right_child": 251
+            }, 
+            "316": {
+                "count": 3, 
+                "distance": 0.134, 
+                "left_child": 173, 
+                "parent": 336, 
+                "right_child": 262
+            }, 
+            "317": {
+                "count": 2, 
+                "distance": 0.135, 
+                "left_child": 46, 
+                "parent": 357, 
+                "right_child": 79
+            }, 
+            "318": {
+                "count": 5, 
+                "distance": 0.136, 
+                "left_child": 280, 
+                "parent": 354, 
+                "right_child": 312
+            }, 
+            "319": {
+                "count": 3, 
+                "distance": 0.138, 
+                "left_child": 59, 
+                "parent": 345, 
+                "right_child": 284
+            }, 
+            "320": {
+                "count": 5, 
+                "distance": 0.142, 
+                "left_child": 211, 
+                "parent": 364, 
+                "right_child": 274
+            }, 
+            "321": {
+                "count": 5, 
+                "distance": 0.145, 
+                "left_child": 123, 
+                "parent": 351, 
+                "right_child": 313
+            }, 
+            "322": {
+                "count": 4, 
+                "distance": 0.154, 
+                "left_child": 243, 
+                "parent": 373, 
+                "right_child": 299
+            }, 
+            "323": {
+                "count": 8, 
+                "distance": 0.156, 
+                "left_child": 270, 
+                "parent": 342, 
+                "right_child": 294
+            }, 
+            "324": {
+                "count": 4, 
+                "distance": 0.163, 
+                "left_child": 76, 
+                "parent": 375, 
+                "right_child": 285
+            }, 
+            "325": {
+                "count": 8, 
+                "distance": 0.164, 
+                "left_child": 246, 
+                "parent": 370, 
+                "right_child": 296
+            }, 
+            "326": {
+                "count": 8, 
+                "distance": 0.168, 
+                "left_child": 279, 
+                "parent": 354, 
+                "right_child": 286
+            }, 
+            "327": {
+                "count": 3, 
+                "distance": 0.169, 
+                "left_child": 191, 
+                "parent": 352, 
+                "right_child": 260
+            }, 
+            "328": {
+                "count": 3, 
+                "distance": 0.169, 
+                "left_child": 28, 
+                "parent": 362, 
+                "right_child": 250
+            }, 
+            "329": {
+                "count": 7, 
+                "distance": 0.169, 
+                "left_child": 307, 
+                "parent": 355, 
+                "right_child": 314
+            }, 
+            "330": {
+                "count": 2, 
+                "distance": 0.17, 
+                "left_child": 41, 
+                "parent": 346, 
+                "right_child": 81
+            }, 
+            "331": {
+                "count": 7, 
+                "distance": 0.17, 
+                "left_child": 248, 
+                "parent": 368, 
+                "right_child": 275
+            }, 
+            "332": {
+                "count": 6, 
+                "distance": 0.17, 
+                "left_child": 303, 
+                "parent": 347, 
+                "right_child": 305
+            }, 
+            "333": {
+                "count": 3, 
+                "distance": 0.171, 
+                "left_child": 148, 
+                "parent": 363, 
+                "right_child": 213
+            }, 
+            "334": {
+                "count": 6, 
+                "distance": 0.171, 
+                "left_child": 265, 
+                "parent": 350, 
+                "right_child": 288
+            }, 
+            "335": {
+                "count": 2, 
+                "distance": 0.175, 
+                "left_child": 40, 
+                "parent": 366, 
+                "right_child": 87
+            }, 
+            "336": {
+                "count": 5, 
+                "distance": 0.178, 
+                "left_child": 209, 
+                "parent": 371, 
+                "right_child": 316
+            }, 
+            "337": {
+                "count": 4, 
+                "distance": 0.184, 
+                "left_child": 108, 
+                "parent": 368, 
+                "right_child": 268
+            }, 
+            "338": {
+                "count": 5, 
+                "distance": 0.189, 
+                "left_child": 224, 
+                "parent": 365, 
+                "right_child": 292
+            }, 
+            "339": {
+                "count": 7, 
+                "distance": 0.19, 
+                "left_child": 278, 
+                "parent": 345, 
+                "right_child": 293
+            }, 
+            "340": {
+                "count": 8, 
+                "distance": 0.19, 
+                "left_child": 245, 
+                "parent": 353, 
+                "right_child": 315
+            }, 
+            "341": {
+                "count": 6, 
+                "distance": 0.192, 
+                "left_child": 259, 
+                "parent": 358, 
+                "right_child": 277
+            }, 
+            "342": {
+                "count": 10, 
+                "distance": 0.201, 
+                "left_child": 240, 
+                "parent": 377, 
+                "right_child": 323
+            }, 
+            "343": {
+                "count": 3, 
+                "distance": 0.207, 
+                "left_child": 138, 
+                "parent": 372, 
+                "right_child": 301
+            }, 
+            "344": {
+                "count": 2, 
+                "distance": 0.209, 
+                "left_child": 16, 
+                "parent": 364, 
+                "right_child": 84
+            }, 
+            "345": {
+                "count": 10, 
+                "distance": 0.214, 
+                "left_child": 319, 
+                "parent": 384, 
+                "right_child": 339
+            }, 
+            "346": {
+                "count": 4, 
+                "distance": 0.229, 
+                "left_child": 281, 
+                "parent": 373, 
+                "right_child": 330
+            }, 
+            "347": {
+                "count": 7, 
+                "distance": 0.236, 
+                "left_child": 30, 
+                "parent": 367, 
+                "right_child": 332
+            }, 
+            "348": {
+                "count": 2, 
+                "distance": 0.243, 
+                "left_child": 56, 
+                "parent": 385, 
+                "right_child": 158
+            }, 
+            "349": {
+                "count": 8, 
+                "distance": 0.245, 
+                "left_child": 272, 
+                "parent": 374, 
+                "right_child": 311
+            }, 
+            "350": {
+                "count": 8, 
+                "distance": 0.247, 
+                "left_child": 295, 
+                "parent": 379, 
+                "right_child": 334
+            }, 
+            "351": {
+                "count": 8, 
+                "distance": 0.257, 
+                "left_child": 208, 
+                "parent": 372, 
+                "right_child": 321
+            }, 
+            "352": {
+                "count": 5, 
+                "distance": 0.257, 
+                "left_child": 200, 
+                "parent": 366, 
+                "right_child": 327
+            }, 
+            "353": {
+                "count": 12, 
+                "distance": 0.267, 
+                "left_child": 273, 
+                "parent": 374, 
+                "right_child": 340
+            }, 
+            "354": {
+                "count": 13, 
+                "distance": 0.268, 
+                "left_child": 318, 
+                "parent": 370, 
+                "right_child": 326
+            }, 
+            "355": {
+                "count": 9, 
+                "distance": 0.271, 
+                "left_child": 297, 
+                "parent": 379, 
+                "right_child": 329
+            }, 
+            "356": {
+                "count": 5, 
+                "distance": 0.274, 
+                "left_child": 225, 
+                "parent": 369, 
+                "right_child": 309
+            }, 
+            "357": {
+                "count": 5, 
+                "distance": 0.275, 
+                "left_child": 291, 
+                "parent": 378, 
+                "right_child": 317
+            }, 
+            "358": {
+                "count": 10, 
+                "distance": 0.278, 
+                "left_child": 304, 
+                "parent": 382, 
+                "right_child": 341
+            }, 
+            "359": {
+                "count": 3, 
+                "distance": 0.279, 
+                "left_child": 100, 
+                "parent": 389, 
+                "right_child": 298
+            }, 
+            "360": {
+                "count": 2, 
+                "distance": 0.3, 
+                "left_child": 7, 
+                "parent": 375, 
+                "right_child": 51
+            }, 
+            "361": {
+                "count": 7, 
+                "distance": 0.305, 
+                "left_child": 300, 
+                "parent": 371, 
+                "right_child": 310
+            }, 
+            "362": {
+                "count": 12, 
+                "distance": 0.307, 
+                "left_child": 308, 
+                "parent": 377, 
+                "right_child": 328
+            }, 
+            "363": {
+                "count": 4, 
+                "distance": 0.32, 
+                "left_child": 23, 
+                "parent": 387, 
+                "right_child": 333
+            }, 
+            "364": {
+                "count": 7, 
+                "distance": 0.343, 
+                "left_child": 320, 
+                "parent": 381, 
+                "right_child": 344
+            }, 
+            "365": {
+                "count": 7, 
+                "distance": 0.347, 
+                "left_child": 263, 
+                "parent": 388, 
+                "right_child": 338
+            }, 
+            "366": {
+                "count": 7, 
+                "distance": 0.35, 
+                "left_child": 335, 
+                "parent": 380, 
+                "right_child": 352
+            }, 
+            "367": {
+                "count": 9, 
+                "distance": 0.351, 
+                "left_child": 226, 
+                "parent": 378, 
+                "right_child": 347
+            }, 
+            "368": {
+                "count": 11, 
+                "distance": 0.388, 
+                "left_child": 331, 
+                "parent": 383, 
+                "right_child": 337
+            }, 
+            "369": {
+                "count": 6, 
+                "distance": 0.402, 
+                "left_child": 4, 
+                "parent": 380, 
+                "right_child": 356
+            }, 
+            "370": {
+                "count": 21, 
+                "distance": 0.411, 
+                "left_child": 325, 
+                "parent": 381, 
+                "right_child": 354
+            }, 
+            "371": {
+                "count": 12, 
+                "distance": 0.413, 
+                "left_child": 336, 
+                "parent": 382, 
+                "right_child": 361
+            }, 
+            "372": {
+                "count": 11, 
+                "distance": 0.414, 
+                "left_child": 343, 
+                "parent": 387, 
+                "right_child": 351
+            }, 
+            "373": {
+                "count": 8, 
+                "distance": 0.418, 
+                "left_child": 322, 
+                "parent": 384, 
+                "right_child": 346
+            }, 
+            "374": {
+                "count": 20, 
+                "distance": 0.431, 
+                "left_child": 349, 
+                "parent": 388, 
+                "right_child": 353
+            }, 
+            "375": {
+                "count": 6, 
+                "distance": 0.437, 
+                "left_child": 324, 
+                "parent": 386, 
+                "right_child": 360
+            }, 
+            "376": {
+                "count": 2, 
+                "distance": 0.466, 
+                "left_child": 12, 
+                "parent": 397, 
+                "right_child": 13
+            }, 
+            "377": {
+                "count": 22, 
+                "distance": 0.473, 
+                "left_child": 342, 
+                "parent": 383, 
+                "right_child": 362
+            }, 
+            "378": {
+                "count": 14, 
+                "distance": 0.499, 
+                "left_child": 357, 
+                "parent": 389, 
+                "right_child": 367
+            }, 
+            "379": {
+                "count": 17, 
+                "distance": 0.501, 
+                "left_child": 350, 
+                "parent": 386, 
+                "right_child": 355
+            }, 
+            "380": {
+                "count": 13, 
+                "distance": 0.575, 
+                "left_child": 366, 
+                "parent": 385, 
+                "right_child": 369
+            }, 
+            "381": {
+                "count": 28, 
+                "distance": 0.606, 
+                "left_child": 364, 
+                "parent": 390, 
+                "right_child": 370
+            }, 
+            "382": {
+                "count": 22, 
+                "distance": 0.617, 
+                "left_child": 358, 
+                "parent": 394, 
+                "right_child": 371
+            }, 
+            "383": {
+                "count": 33, 
+                "distance": 0.626, 
+                "left_child": 368, 
+                "parent": 391, 
+                "right_child": 377
+            }, 
+            "384": {
+                "count": 18, 
+                "distance": 0.634, 
+                "left_child": 345, 
+                "parent": 393, 
+                "right_child": 373
+            }, 
+            "385": {
+                "count": 15, 
+                "distance": 0.644, 
+                "left_child": 348, 
+                "parent": 392, 
+                "right_child": 380
+            }, 
+            "386": {
+                "count": 23, 
+                "distance": 0.723, 
+                "left_child": 375, 
+                "parent": 390, 
+                "right_child": 379
+            }, 
+            "387": {
+                "count": 15, 
+                "distance": 0.772, 
+                "left_child": 363, 
+                "parent": 393, 
+                "right_child": 372
+            }, 
+            "388": {
+                "count": 27, 
+                "distance": 0.808, 
+                "left_child": 365, 
+                "parent": 391, 
+                "right_child": 374
+            }, 
+            "389": {
+                "count": 17, 
+                "distance": 0.929, 
+                "left_child": 359, 
+                "parent": 392, 
+                "right_child": 378
+            }, 
+            "390": {
+                "count": 51, 
+                "distance": 1.096, 
+                "left_child": 381, 
+                "parent": 395, 
+                "right_child": 386
+            }, 
+            "391": {
+                "count": 60, 
+                "distance": 1.167, 
+                "left_child": 383, 
+                "parent": 396, 
+                "right_child": 388
+            }, 
+            "392": {
+                "count": 32, 
+                "distance": 1.227, 
+                "left_child": 385, 
+                "parent": 394, 
+                "right_child": 389
+            }, 
+            "393": {
+                "count": 33, 
+                "distance": 1.275, 
+                "left_child": 384, 
+                "parent": 395, 
+                "right_child": 387
+            }, 
+            "394": {
+                "count": 54, 
+                "distance": 1.801, 
+                "left_child": 382, 
+                "parent": 397, 
+                "right_child": 392
+            }, 
+            "395": {
+                "count": 84, 
+                "distance": 1.996, 
+                "left_child": 390, 
+                "parent": 396, 
+                "right_child": 393
+            }, 
+            "396": {
+                "count": 144, 
+                "distance": 2.368, 
+                "left_child": 391, 
+                "parent": 398, 
+                "right_child": 395
+            }, 
+            "397": {
+                "count": 56, 
+                "distance": 2.401, 
+                "left_child": 376, 
+                "parent": 398, 
+                "right_child": 394
+            }, 
+            "398": {
+                "count": 200, 
+                "distance": 5.154, 
+                "left_child": 396, 
+                "right_child": 397
+            }
+        }, 
+        "feature_names": [
+            "HBA", 
+            "HBD", 
+            "MW", 
+            "logP", 
+            "TPSA"
+        ]
+    }, 
+    "metadata": {
+        "nodes": {
+            "0": [
+                "2.5"
+            ], 
+            "1": [
+                "4"
+            ], 
+            "2": [
+                "5"
+            ], 
+            "3": [
+                "8"
+            ], 
+            "4": [
+                "11"
+            ], 
+            "5": [
+                "12"
+            ], 
+            "6": [
+                "13"
+            ], 
+            "7": [
+                "19.95"
+            ], 
+            "8": [
+                "22"
+            ], 
+            "9": [
+                "23.99"
+            ], 
+            "10": [
+                "25"
+            ], 
+            "11": [
+                "26"
+            ], 
+            "12": [
+                "28.6"
+            ], 
+            "13": [
+                "36"
+            ], 
+            "14": [
+                "38"
+            ], 
+            "15": [
+                "55"
+            ], 
+            "16": [
+                "70"
+            ], 
+            "17": [
+                "79.8"
+            ], 
+            "18": [
+                "138"
+            ], 
+            "19": [
+                "150"
+            ], 
+            "20": [
+                "163"
+            ], 
+            "21": [
+                "175"
+            ], 
+            "22": [
+                "202"
+            ], 
+            "23": [
+                "218.78"
+            ], 
+            "24": [
+                "310"
+            ], 
+            "25": [
+                "410"
+            ], 
+            "26": [
+                "629"
+            ], 
+            "27": [
+                "770"
+            ], 
+            "28": [
+                "870.96"
+            ], 
+            "29": [
+                "1070"
+            ], 
+            "30": [
+                "1100"
+            ], 
+            "31": [
+                "1800"
+            ], 
+            "32": [
+                "2300"
+            ], 
+            "33": [
+                "5370.32"
+            ], 
+            "34": [
+                "7244.36"
+            ], 
+            "35": [
+                "8300"
+            ], 
+            "36": [
+                "12000"
+            ], 
+            "37": [
+                "12300"
+            ], 
+            "38": [
+                "19000"
+            ], 
+            "39": [
+                "19000"
+            ], 
+            "40": [
+                "20000"
+            ], 
+            "41": [
+                "2"
+            ], 
+            "42": [
+                "5.3"
+            ], 
+            "43": [
+                "7.5"
+            ], 
+            "44": [
+                "8"
+            ], 
+            "45": [
+                "31"
+            ], 
+            "46": [
+                "35"
+            ], 
+            "47": [
+                "39"
+            ], 
+            "48": [
+                "40"
+            ], 
+            "49": [
+                "44.67"
+            ], 
+            "50": [
+                "52"
+            ], 
+            "51": [
+                "54"
+            ], 
+            "52": [
+                "62"
+            ], 
+            "53": [
+                "70.79"
+            ], 
+            "54": [
+                "103"
+            ], 
+            "55": [
+                "106"
+            ], 
+            "56": [
+                "132"
+            ], 
+            "57": [
+                "140"
+            ], 
+            "58": [
+                "148"
+            ], 
+            "59": [
+                "180"
+            ], 
+            "60": [
+                "189"
+            ], 
+            "61": [
+                "283"
+            ], 
+            "62": [
+                "290"
+            ], 
+            "63": [
+                "303"
+            ], 
+            "64": [
+                "345"
+            ], 
+            "65": [
+                "353"
+            ], 
+            "66": [
+                "378"
+            ], 
+            "67": [
+                "758.58"
+            ], 
+            "68": [
+                "1900"
+            ], 
+            "69": [
+                "2137.96"
+            ], 
+            "70": [
+                "2344.23"
+            ], 
+            "71": [
+                "2400"
+            ], 
+            "72": [
+                "2930"
+            ], 
+            "73": [
+                "4780"
+            ], 
+            "74": [
+                "6309.57"
+            ], 
+            "75": [
+                "6600"
+            ], 
+            "76": [
+                "7900"
+            ], 
+            "77": [
+                "10000"
+            ], 
+            "78": [
+                "19000"
+            ], 
+            "79": [
+                "20000"
+            ], 
+            "80": [
+                "63000"
+            ], 
+            "81": [
+                "64000"
+            ], 
+            "82": [
+                "93000"
+            ], 
+            "83": [
+                "100000"
+            ], 
+            "84": [
+                "4"
+            ], 
+            "85": [
+                "6"
+            ], 
+            "86": [
+                "9.6"
+            ], 
+            "87": [
+                "18"
+            ], 
+            "88": [
+                "20"
+            ], 
+            "89": [
+                "21"
+            ], 
+            "90": [
+                "21.5"
+            ], 
+            "91": [
+                "30"
+            ], 
+            "92": [
+                "32"
+            ], 
+            "93": [
+                "39"
+            ], 
+            "94": [
+                "57"
+            ], 
+            "95": [
+                "63"
+            ], 
+            "96": [
+                "64"
+            ], 
+            "97": [
+                "127"
+            ], 
+            "98": [
+                "190.55"
+            ], 
+            "99": [
+                "202"
+            ], 
+            "100": [
+                "220"
+            ], 
+            "101": [
+                "230"
+            ], 
+            "102": [
+                "354.81"
+            ], 
+            "103": [
+                "460"
+            ], 
+            "104": [
+                "766"
+            ], 
+            "105": [
+                "1122.02"
+            ], 
+            "106": [
+                "2040"
+            ], 
+            "107": [
+                "2398.83"
+            ], 
+            "108": [
+                "2691.53"
+            ], 
+            "109": [
+                "2951.21"
+            ], 
+            "110": [
+                "7960"
+            ], 
+            "111": [
+                "15135.61"
+            ], 
+            "112": [
+                "16000"
+            ], 
+            "113": [
+                "19000"
+            ], 
+            "114": [
+                "53000"
+            ], 
+            "115": [
+                "53703.18"
+            ], 
+            "116": [
+                "3"
+            ], 
+            "117": [
+                "3.3"
+            ], 
+            "118": [
+                "4"
+            ], 
+            "119": [
+                "5.3"
+            ], 
+            "120": [
+                "6.2"
+            ], 
+            "121": [
+                "9"
+            ], 
+            "122": [
+                "14"
+            ], 
+            "123": [
+                "14.13"
+            ], 
+            "124": [
+                "26"
+            ], 
+            "125": [
+                "31"
+            ], 
+            "126": [
+                "33"
+            ], 
+            "127": [
+                "42"
+            ], 
+            "128": [
+                "72"
+            ], 
+            "129": [
+                "75"
+            ], 
+            "130": [
+                "88"
+            ], 
+            "131": [
+                "100"
+            ], 
+            "132": [
+                "154.88"
+            ], 
+            "133": [
+                "170"
+            ], 
+            "134": [
+                "177.83"
+            ], 
+            "135": [
+                "180"
+            ], 
+            "136": [
+                "197"
+            ], 
+            "137": [
+                "216"
+            ], 
+            "138": [
+                "300"
+            ], 
+            "139": [
+                "509"
+            ], 
+            "140": [
+                "580"
+            ], 
+            "141": [
+                "630.96"
+            ], 
+            "142": [
+                "958"
+            ], 
+            "143": [
+                "1030"
+            ], 
+            "144": [
+                "1071.52"
+            ], 
+            "145": [
+                "1100"
+            ], 
+            "146": [
+                "2200"
+            ], 
+            "147": [
+                "2691.53"
+            ], 
+            "148": [
+                "2700"
+            ], 
+            "149": [
+                "5495.41"
+            ], 
+            "150": [
+                "7300"
+            ], 
+            "151": [
+                "15000"
+            ], 
+            "152": [
+                "19000"
+            ], 
+            "153": [
+                "92000"
+            ], 
+            "154": [
+                "140000"
+            ], 
+            "155": [
+                "230000"
+            ], 
+            "156": [
+                "1.7"
+            ], 
+            "157": [
+                "4"
+            ], 
+            "158": [
+                "4.1"
+            ], 
+            "159": [
+                "5"
+            ], 
+            "160": [
+                "10"
+            ], 
+            "161": [
+                "11"
+            ], 
+            "162": [
+                "12"
+            ], 
+            "163": [
+                "23"
+            ], 
+            "164": [
+                "41"
+            ], 
+            "165": [
+                "41"
+            ], 
+            "166": [
+                "45"
+            ], 
+            "167": [
+                "100"
+            ], 
+            "168": [
+                "200"
+            ], 
+            "169": [
+                "272"
+            ], 
+            "170": [
+                "284"
+            ], 
+            "171": [
+                "331.13"
+            ], 
+            "172": [
+                "350"
+            ], 
+            "173": [
+                "457.09"
+            ], 
+            "174": [
+                "620"
+            ], 
+            "175": [
+                "720"
+            ], 
+            "176": [
+                "760"
+            ], 
+            "177": [
+                "1880"
+            ], 
+            "178": [
+                "1949.84"
+            ], 
+            "179": [
+                "2630"
+            ], 
+            "180": [
+                "2900"
+            ], 
+            "181": [
+                "4466.84"
+            ], 
+            "182": [
+                "4500"
+            ], 
+            "183": [
+                "7943.28"
+            ], 
+            "184": [
+                "8128.31"
+            ], 
+            "185": [
+                "11000"
+            ], 
+            "186": [
+                "2"
+            ], 
+            "187": [
+                "2"
+            ], 
+            "188": [
+                "3.6"
+            ], 
+            "189": [
+                "7.5"
+            ], 
+            "190": [
+                "9"
+            ], 
+            "191": [
+                "33"
+            ], 
+            "192": [
+                "33"
+            ], 
+            "193": [
+                "39"
+            ], 
+            "194": [
+                "43"
+            ], 
+            "195": [
+                "78"
+            ], 
+            "196": [
+                "81"
+            ], 
+            "197": [
+                "86"
+            ], 
+            "198": [
+                "89"
+            ], 
+            "199": [
+                "134"
+            ]
+        }, 
+        "feature_names": [
+            "activity"
+        ]
+    }
+}

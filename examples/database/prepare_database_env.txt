@@ -1,0 +1,16 @@
+activate the conda environment
+
+ensure that the postgresql and rdkit-postgresql packages are installed
+
+initialize a database folder:
+initdb path/to/desired/database/folder
+
+then start up the database:
+pg_ctl -D path/to/previously/initialized/database/folder -o "-p 9000(or any other port #)" start
+
+login into the main running database:
+psql postgres -p 9000 (or your selected port #)
+    create database my_db_name
+    \q
+
+psql my_db_name -p 9000 < my_database_init_script.sql

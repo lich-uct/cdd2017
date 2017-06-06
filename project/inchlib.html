@@ -1,0 +1,186 @@
+<html>
+        <head>
+            <script src="jquery-2.0.3.min.js"></script>
+            <script src="kinetic-v5.1.0.min.js"></script>
+            <script src="konva.min.js"></script>
+            <script src="inchlib-1.2.0.js"></script>
+            <script>
+    var activated = false;
+    $(document).click(function(evt){
+            if (activated) {            
+              if(evt.target.localName != "canvas" && evt.target.localName != "a" && !($(evt.target).hasClass('pure-button')) && evt.target.localName != "button" && !($(evt.target).hasClass('target_overlay')) && !($(evt.target).hasClass('molecule_img')) && !($(evt.target).hasClass('molecule_label'))){
+                if(dendrogram !== null){
+                  dendrogram.unhighlight_cluster();
+                  dendrogram.unhighlight_column_cluster();
+                  dendrogram.highlight_rows([]);
+                }
+              }
+            }
+      });
+    
+    $(document).ready(function() {
+        $("#milan").click(function() {$.get("vorsilam/clusters.json",show_dendrogram,"json")});
+        $("#lucka").click(function() {$.get("pfeiferl/clusters.json",show_dendrogram,"json")});
+        $("#petra").click(function() {$.get("svatonop/clusters.json",show_dendrogram,"json")});
+        $("#ksenia").click(function() {$.get("troshchk/clusters.json",show_dendrogram,"json")});
+    });
+              
+    function preproccess(data) {
+        data.data.feature_names = [];
+        //data.metadata = { "nodes": {},"feature_names":["zscore"]};
+
+        for (var key in data.data.nodes) {
+            if (data.data.nodes[key].objects!=null) {
+                data.data.nodes[key].features=[];
+            }
+        }
+    }
+
+    function show_dendrogram(data){
+        activated = true;
+        //preproccess(data);
+        var current_mol;
+        window.dendrogram = new InCHlib(
+            {
+                target: "dendrogram",
+                metadata: true, 
+                dendrogram: true,
+                max_height: 1200,
+                width: 500,
+                heatmap_colors: "Greens",
+                metadata_colors: "RdLrBu",
+                highlight_colors: "PuOr",
+                //unified_dendrogram_distance: true,
+                show_export_button: false,
+                navigation_toggle: {color_scale: false, distance_scale: false, export_button: false, filter_button: false, hint_button: false},
+            });
+
+        dendrogram.read_data(data);
+        dendrogram.draw();
+
+        //$("#loading").hide();
+
+        var molecule_url = "./molecule_images/";
+        var target_element = $("#dendrogram");
+        var offset = target_element.offset();
+        var max_y = offset.top + 150;
+        var x_pos = offset.left + dendrogram.settings.width - 80;
+        var mol_element = $("#molecule");
+        var img_element = $("#molecule_img");
+        var mol_id_element = $("#mol_id");
+        var mol_link = $("#molecule a");
+
+        var molecules_element = $("#molecules");
+        
+        bind_dendrogram_events();
+
+        function show_molecule(mol_id, evt){
+            //scaffolds_element.hide();
+            //var filepath = molecule_url + mol_id + ".png";
+            var filepath = molecule_url + mol_id + ".png";
+            /*var y = evt.evt.pageY-300;
+            if(y < max_y){
+                y = max_y;
+            }*/
+            //mol_element.css({"top": y, "border-width": "1px"});
+            img_element.attr("src", filepath);
+            mol_id_element.text(mol_id);
+            //mol_link.attr("href", chembl_url+mol_id);
+            mol_element.show();
+
+        }
+
+        function get_molecule_element(molecule){
+                return '<div class="lmolecule" data-molecule_id="' + molecule + '"><img class="molecule_img" src="' + molecule_url + molecule + '.png" alt="" width="200" height="200" / ><div class="molecule_label">' + molecule + '</div></div>';
+        }
+
+        function hide_molecule(ids, evt){
+            mol_element.hide();
+        }
+
+        function fix_molecule(){
+            dendrogram.events.row_onmouseover = function(){};
+        }
+
+        function bind_dendrogram_events(){
+            dendrogram.events.row_onmouseover = function(ids, evt){
+                show_molecule(ids, evt);
+            };
+
+            dendrogram.events.row_onclick = function(ids, evt){
+                molecules_element.hide();
+                show_molecule(ids[0], evt);
+                fix_molecule(ids[0]);
+                current_mol = ids[0];
+                dendrogram.highlight_rows(ids);
+                dendrogram.unhighlight_cluster();
+            };
+
+            dendrogram.events.dendrogram_node_highlight = function(object_ids, evt){
+                var i, height = 200;
+                if(target_element.height() > 200){
+                    height = target_element.height() - 240;
+                }
+
+                if(height > molecules.length*200){
+                    height = molecules.length*200;
+                }
+
+                molecules_element.hide();
+                molecules_element.html("");
+
+                dendrogram.events.row_onmouseover = function(ids, evt) {return;};
+
+                for(i = 0; i<object_ids.length; i++){
+                    molecules_element.append(get_molecule_element(object_ids[i]));
+                }
+                hide_molecule();
+                molecules_element.show();
+                dendrogram.highlight_rows([]);
+            }
+
+            dendrogram.events.dendrogram_node_unhighlight = function(){
+                molecules_element.hide();
+                dendrogram.events.row_onmouseover = function(ids, evt){
+                    show_molecule(ids, evt);
+                    fix_molecule();
+                };
+            }
+
+            dendrogram.events.empty_space_onclick = function(){
+                hide_molecule();
+                dendrogram.highlight_rows([]);
+                bind_dendrogram_events();
+            }
+        }
+
+        $(document).click(function(evt){            
+            if(evt.target.localName != "img" && evt.target.localName != "canvas" && evt.target.localName != "a"){
+                bind_dendrogram_events();
+            }
+        });
+    };
+
+            </script>
+        </head>
+
+        <body>
+            <div id="loading">
+                <button id="milan">Milan</button>
+                <button id="lucka">Lucka</button>
+                <button id="petra">Petra</button>
+                <button id="ksenia">Ksenia</button>
+            </div>
+            <div>
+                <div id="dendrogram" style="float: left; width: 500px;"></div>
+                <div style="padding-top: 150px; padding-left: 500px;">
+                    <div id="molecule" style="display: none; width: 350px; height: 350px;">
+                        <img width="300" height="300" id="molecule_img">
+                        <div id="mol_id"></div>
+                    </div>
+                    <div id="molecules" style="display: none; width: 250px; height: 950px; overflow: auto;"></div>
+                </div>
+            </div>
+
+        </body>
+        </html>
