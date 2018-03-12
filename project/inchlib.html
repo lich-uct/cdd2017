@@ -6,6 +6,7 @@
             <script src="inchlib-1.2.0.js"></script>
             <script>
     var activated = false;
+    var molecule_url = null;
     $(document).click(function(evt){
             if (activated) {            
               if(evt.target.localName != "canvas" && evt.target.localName != "a" && !($(evt.target).hasClass('pure-button')) && evt.target.localName != "button" && !($(evt.target).hasClass('target_overlay')) && !($(evt.target).hasClass('molecule_img')) && !($(evt.target).hasClass('molecule_label'))){
@@ -19,10 +20,12 @@
       });
     
     $(document).ready(function() {
+
         $("#milan").click(function() {$.get("vorsilam/clusters.json",show_dendrogram,"json")});
-        $("#lucka").click(function() {$.get("pfeiferl/clusters.json",show_dendrogram,"json")});
-        $("#petra").click(function() {$.get("svatonop/clusters.json",show_dendrogram,"json")});
-        $("#ksenia").click(function() {$.get("troshchk/clusters.json",show_dendrogram,"json")});
+        $("#lucka").click(function() {molecule_url = "pfeiferl/pictures/"; $.get("pfeiferl/soubor.json",show_dendrogram,"json")});
+        $("#petra").click(function() {molecule_url = "svatonop/projekt/cluster_images/mol_id_"; $.get("svatonop/projekt/clusters.json",show_dendrogram,"json")});
+        $("#ksenia").click(function() {molecule_url = "kseniatrs/ID"; $.get("kseniatrs/clusters.json",show_dendrogram,"json")});
+        $("#isabela").click(function() {$.get("iagea/clusters.json",show_dendrogram,"json")});
     });
               
     function preproccess(data) {
@@ -60,7 +63,7 @@
 
         //$("#loading").hide();
 
-        var molecule_url = "./molecule_images/";
+        
         var target_element = $("#dendrogram");
         var offset = target_element.offset();
         var max_y = offset.top + 150;
@@ -166,10 +169,11 @@
 
         <body>
             <div id="loading">
-                <button id="milan">Milan</button>
+                <!--button id="milan">Milan</button-->
                 <button id="lucka">Lucka</button>
                 <button id="petra">Petra</button>
                 <button id="ksenia">Ksenia</button>
+                <!--button id="isabela">Isabela</button-->
             </div>
             <div>
                 <div id="dendrogram" style="float: left; width: 500px;"></div>
